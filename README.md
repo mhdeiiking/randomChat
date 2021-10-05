@@ -39,7 +39,7 @@
 
 ```bash
 # نسخ المشروع من جت هب
-git clone https://github.com/Awiteb/randomChat
+git clone https://github.com/mhdeiiking/randomChat
 
 # تغير المسار الى مسار المشروع
 cd randomChat
